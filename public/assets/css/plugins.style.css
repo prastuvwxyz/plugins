@@ -1,0 +1,17 @@
+body {
+    background-color: #e4e4e4;
+}
+
+.app {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #00FF44;
+    color: #fff;
+    text-shadow: 1px 1px 4px #bbb;
+}
+
+.marquee {
+    position: absolute;
+    width: 100%;
+}
